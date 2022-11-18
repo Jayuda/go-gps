@@ -5,7 +5,7 @@ simple golang gogpslocation (gps) calculations
 package main
 
 import(
-    "https://github.com/Jayuda/go-gps"
+    gogps "github.com/Jayuda/go-gps"
     "fmt"
 )
 
